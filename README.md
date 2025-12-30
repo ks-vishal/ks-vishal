@@ -4,8 +4,8 @@
 ---
 
 ## 🔭 **Current Project**  
-- [MultiThread Download Manager](https://github.com/ks-vishal/MultiThread_Download_Manager)  
-
+- [Exgen: vulnerability detection and exploitation framework on blockchain smart contracts]
+  
 ## 🌱 **Currently Learning**  
 - SpringBoot and other Backend Technologies  
 
