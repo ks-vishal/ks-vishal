@@ -7,7 +7,7 @@
 - [Exgen: vulnerability detection and exploitation framework on blockchain smart contracts]
   
 ## 🌱 **Currently Learning**  
-- SpringBoot and other Backend Technologies  
+- Agentic AI
 
 ## 📫 **How to Reach Me**  
 📧 Email: **vishal0384singh@gmail.com**  
