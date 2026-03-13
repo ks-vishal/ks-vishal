@@ -13,7 +13,7 @@
 📧 Email: **vishal0384singh@gmail.com**  
 
 ## 📄 **Resume**  
-📄 [View my resume]([https://drive.google.com/file/d/1JGvtp9ar0exEkws9JHjV5k2KlTWH1amg/view?usp=drive_link](https://drive.google.com/file/d/14cxj6evoHHOKhiRCMyVJewlJrwWDrZSu/view?usp=drive_link))  
+📄 [View my resume](https://drive.google.com/file/d/14cxj6evoHHOKhiRCMyVJewlJrwWDrZSu/view?usp=drive_link)  
 
 ---
 
